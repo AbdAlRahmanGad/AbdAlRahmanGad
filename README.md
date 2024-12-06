@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a Computer Science Student with a focus on contributing to Free and Open Source Software. I've made Contributions to prominent open-source projects including `Swift`, `Chromium`, `LLDB` and `Git`. These contributions have helped me gain valuable experience and enhance my skills in software development, coding, and collaborative work in diverse open-source environments.
+
+Open source gave a great opporutunity to Work in a team environment, communicate and coordinate with other contributors, tackle real-world problems, debug and fix issues in existing, often massive codebases like LLVM and Chromium.
+
+A list of my open-source contributions can be found [here](https://gist.github.com/AbdAlRahmanGad/23df2d40326ef665422d261faef211b6).
+
 <!--
 **AbdAlRahmanGad/AbdAlRahmanGad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
