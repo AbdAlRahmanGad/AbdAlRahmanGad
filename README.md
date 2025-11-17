@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-I'm a Computer Science Student with a focus on contributing to Free and Open Source Software. I've made Contributions to prominent open-source projects including ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white), ![Chromium](https://img.shields.io/badge/-Chromium-4285F4?logo=google-chrome&logoColor=white), ![LLVM](https://img.shields.io/badge/-LLVM-262D3F?logo=llvm&logoColor=white) and ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white). These contributions have helped me gain valuable experience and enhance my skills in software development, coding, and collaborative work in diverse open-source environments.
 
-Open source gave a great opporutunity to Work in a team environment, communicate and coordinate with other contributors, tackle real-world problems, debug and fix issues in existing, often massive codebases like LLVM and Chromium.
-
-- A list of my open-source contributions can be found [here](https://gist.github.com/AbdAlRahmanGad/23df2d40326ef665422d261faef211b6).
-- [ My Portfolio ⭐️ ](https://gist.github.com/AbdAlRahmanGad/b871cb15e52d314a918a74fa6ed39984)
+- I am **AbdAlRahman**. I love software engineering, open source, and computer science.
+- I love all kinds of browsers (Chromium, WebKit, and Gecko-based) and love to try new ones.
+- I previously interned @ **Igalia** as part of the Chromium team.
+- I am a committer at the [Chromium](https://chromium.org) project (I can review your code) and a contributor to [ClickHouse](https://clickhouse.com).
+- I am also one of the Owners of the "[Active Courses](https://github.com/Active-Courses/ACU)" Discord server, largest arabic CS server with more than 6k members.
+- Currently, I am looking for new job opportunities in software engineering.
+- You can find me on [Linkedin](https://linkedin.com/in/abdogad) and [GitHub](https://github.com/AbdAlRahmanGad). Let's connect!
 
 <!--
 **AbdAlRahmanGad/AbdAlRahmanGad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
